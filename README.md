@@ -18,6 +18,7 @@ A simple Android app that displays motivational quotes to inspire your day.
 * Java
 * Android SDK
 * XML (UI Design)
+* use of groovy gradle built (not kothin)
 
 ---
 
